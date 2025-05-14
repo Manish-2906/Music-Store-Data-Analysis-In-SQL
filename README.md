@@ -1,3 +1,7 @@
+![Screenshot (309)](https://github.com/user-attachments/assets/c1bc31ae-3a86-4fcd-b2da-1a197c250960)
+![Screenshot (311)](https://github.com/user-attachments/assets/3fcf1d82-e824-4607-a4a5-769fec62ab2f)
+![Screenshot (310)](https://github.com/user-attachments/assets/50b3f4e8-1a57-47fe-b9ee-3f0c56f610f0)
+
 ### **🎵 Music Store Data Analysis in SQL 📊**  
 
 ---
@@ -14,6 +18,8 @@ My mission? **To analyze the data and provide insights** for strategic decision-
 ✅ **Top Country by Invoices** 🌎 – Found where the most purchases were made.  
 ✅ **Top 3 High-Value Invoices** 💰 – Analyzed the biggest transactions.  
 ✅ **Best-Performing City** 🎤 – Identified the best city for a **music festival**.  
+
+
 ✅ **Best Customer** 🏆 – Found the highest-spending customer.  
 ✅ **Rock Music Listeners** 🎸 – Extracted details of **Rock music fans**.  
 ✅ **Top 10 Rock Artists** 🎶 – Ranked the artists with **most Rock tracks**.  
